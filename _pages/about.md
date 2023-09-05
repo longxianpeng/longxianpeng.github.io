@@ -16,13 +16,13 @@ redirect_from:
     <span style="float: left; font-weight: bold">同济大学</span> 
     <span style="float: right;">2021年09月 - 2024年03月</span><br>
     <span style="float: left">应用经济学&nbsp;&nbsp;硕士&nbsp;&nbsp;区域经济学</span> 
-    <span style="float: right;">上海</span><br> </div>
+    <span style="float: right;">上海</span><br>
 
 * <div id="expand-box-header">
     <span style="float: left; font-weight: bold">中国科学技术大学</span> 
     <span style="float: right;">2015年09月 - 2019年06月</span><br>
     <span style="float: left">工学&nbsp;&nbsp;学士&nbsp;&nbsp;计算机科学与技术</span> 
-    <span style="float: right;">安徽，合肥</span><br> </div>
+    <span style="float: right;">安徽，合肥</span><br>
 
 
 工作经历
