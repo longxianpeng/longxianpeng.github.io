@@ -63,9 +63,11 @@ redirect_from:
 学术成果
 ======
 ------
+
 <ul>{% for post in site.publications %}
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
 * 受邀参加第十四届中国空间经济学年会，并发表《授人以鱼不如授人以渔——农村电商与农业产业组织》主题演讲
 * 担任国际学术期刊《SCIENTIFIC REPORTS》审稿人，Nature子刊，SCI二区，影响因子4.9
 * 担任国际学术期刊《POLISH JOURNAL OF ENVIRONMENTAL STUDIES》审稿人，SCI四区，影响因子1.8
