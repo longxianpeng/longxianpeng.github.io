@@ -8,18 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-* 同济大学 经济与管理学院 区域经济学 硕士 2021.09-2024.03
-* 中国科学技术大学 计算机科学与技术学院 计算机科学与技术 学士 2015.09-2019.07
+* 同济大学    经济与管理学院    区域经济学    硕士    2021.09-2024.03
+* 中国科学技术大学    计算机科学与技术学院    计算机科学与技术    学士    2015.09-2019.07
 
 工作经历
 ======
-* 深圳字节跳动科技有限公司 产品与工程架构部 研发工程师 2019.07-2020.04
-* 广西壮族自治区南宁市发展与改革委员会 经贸与区域科 行政助理 2022.07-2022.08
+* 深圳字节跳动科技有限公司    产品与工程架构部    研发工程师    2019.07-2020.04
+  * 主要职责：负责字节跳动海量大规模分布式对象存储系统TOS的研发工作，为包括Tiktok、抖音、今日头条等全球产品线提供统一的非结构化数据存储和数据治理服务
+  * 重点工作：参与字节跳动第二代云存储系统TOS2.0、字节跳动第一代边缘计算与边缘存储系统的研发工作，为抖音春晚活动提供大流量挑战下的解决方案；参与字节跳动云存储的私有产品化过程（现火山引擎）；主导了基于深度学习的主动热点对象预测的高速 SSD 缓存系统的研发工作
+* 广西壮族自治区南宁市发展与改革委员会     经贸与区域科    行政助理    2022.07-2022.08
+  * 日常工作：负责科室日常办文、办会及内外相关业务工作承办
+  * 重点任务：参与南宁市对外开放平台资源整合、南宁市临空经济示范区物流产业规划相关课题调研、南宁市“促消费”相关政策制定研讨工作，并形成相关调研报告及政策建议文件
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-工作经历
+学术成果
 ======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
