@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-教育背景
-======
 
-<div id="expand-box-header">
+教育经历
+======
+------
+* <div id="expand-box-header">
     <span style="float: left; font-weight: bold">同济大学</span> 
     <span style="float: right;">2021年09月 - 2024年03月</span><br>
     <span style="float: left">应用经济学  硕士  区域经济学</span> 
     <span style="float: right;">上海</span><br>
 </div>
-
-
-<div id="expand-box-header">
+* <div id="expand-box-header">
     <span style="float: left; font-weight: bold">中国科学技术大学</span> 
     <span style="float: right;">2015年09月 - 2019年06月</span><br>
     <span style="float: left">工学  学士  计算机科学与技术</span> 
