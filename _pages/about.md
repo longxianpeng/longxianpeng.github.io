@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "教育背景"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,25 +10,29 @@ redirect_from:
 
 * 同济大学    经济与管理学院    区域经济学    硕士    2021.09-2024.03
 * 中国科学技术大学    计算机科学与技术学院    计算机科学与技术    学士    2015.09-2019.07
-
 ## 教育经历
 
-### __同济大学__ `2021.09 - 2024.03`
-```
-上海
-```
-- 经济与管理学院，区域经济学，应用经济学硕士
-- GPA: __4.0__
-- Vision, Graphics track
+<div id="expand-box-header">
+    <span style="float: left; font-weight: bold">同济大学</span> 
+    <span style="float: right;">2021年09月 - 2024年03月</span><br>
+    <span style="float: left">应用经济学  硕士  区域经济学</span> 
+    <span style="float: right;">上海</span><br>
+</div>
 
-### __中国科学技术大学__ `2015.09 - 2019.06`
-```
-合肥，安徽
-```
-- 计算机科学与技术学院，计算机科学与技术，工学学士
-- GPA: __4.0__
-- Computer Science Departmental Honors
+- GPA: 4.1 / 5.0
+- 课程: 
+- 研究方向:
 
+<div id="expand-box-header">
+    <span style="float: left; font-weight: bold">中国科学技术大学</span> 
+    <span style="float: right;">2015年09月 - 2019年06月</span><br>
+    <span style="float: left">工学  学士  计算机科学与技术</span> 
+    <span style="float: right;">安徽，合肥</span><br>
+</div>
+
+- GPA: 4.1 / 5.0
+- 课程: 
+- 研究方向: 
 
 工作经历
 ======
