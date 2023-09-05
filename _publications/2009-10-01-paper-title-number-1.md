@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Special Economic Zone, Carbon Emissions and the Mechanism Role of Green Technology Vertical Spillover: Evidence from Chinese Cities"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Although the special economic zones (SEZs) are considered the backbone of rapid economic development in China, it is unclear whether they contribute to green economic development. From the perspective of the localized industrial chains formed as a result of the SEZ policy, this paper aims to analyze and explain how the development of SEZs influences carbon emissions in Chinese cities by promoting green technologies’ vertical spillover along the industrial chain. Based on the panel data of 264 prefecture-level cities from 2011 to 2016 and a relatively new and mostly disaggregated city-level MRIO (multi-region input–output) table in China, this paper constructs green technology vertical spillover as a mechanism variable and discusses the influence theoretically and empirically. The results show that the development of SEZs can reduce a city’s carbon emissions. More specifically, for every 10 m2 increase in the size of the SEZ area, the carbon dioxide emission can be reduced by 0.882 g per m2 of the city area. Moreover, mechanism analysis shows that the development of SEZs promotes green technology vertical spillover inside the city, through which the SEZs reduce the city’s carbon emissions. The mediation effect occupies 21.96% of the total effect. Furthermore, the impact of the development of SEZs on carbon emissions has regional heterogeneity due to the city’s industry structure, green technology stocks, and the zones’ administrative hierarchies. The finding of this study could provide several important implications for regional green development, especially in China.'
+date: 2022-09-13
+venue: 'September 13'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Chen, J.; Long, X.; Lin, S. Special Economic Zone, Carbon Emissions and the Mechanism Role of Green Technology Vertical Spillover: Evidence from Chinese Cities. Int. J. Environ. Res. Public Health 2022, 19, 11535. https://doi.org/10.3390/ijerph191811535'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Although the special economic zones (SEZs) are considered the backbone of rapid economic development in China, it is unclear whether they contribute to green economic development. From the perspective of the localized industrial chains formed as a result of the SEZ policy, this paper aims to analyze and explain how the development of SEZs influences carbon emissions in Chinese cities by promoting green technologies’ vertical spillover along the industrial chain. Based on the panel data of 264 prefecture-level cities from 2011 to 2016 and a relatively new and mostly disaggregated city-level MRIO (multi-region input–output) table in China, this paper constructs green technology vertical spillover as a mechanism variable and discusses the influence theoretically and empirically. The results show that the development of SEZs can reduce a city’s carbon emissions. More specifically, for every 10 m2 increase in the size of the SEZ area, the carbon dioxide emission can be reduced by 0.882 g per m2 of the city area. Moreover, mechanism analysis shows that the development of SEZs promotes green technology vertical spillover inside the city, through which the SEZs reduce the city’s carbon emissions. The mediation effect occupies 21.96% of the total effect. Furthermore, the impact of the development of SEZs on carbon emissions has regional heterogeneity due to the city’s industry structure, green technology stocks, and the zones’ administrative hierarchies. The finding of this study could provide several important implications for regional green development, especially in China.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Chen, J.; Long, X.; Lin, S. Special Economic Zone, Carbon Emissions and the Mechanism Role of Green Technology Vertical Spillover: Evidence from Chinese Cities. Int. J. Environ. Res. Public Health 2022, 19, 11535. https://doi.org/10.3390/ijerph191811535.
