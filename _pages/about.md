@@ -10,12 +10,14 @@ redirect_from:
 
 教育背景
 ======
+
 <div id="expand-box-header">
     <span style="float: left; font-weight: bold">同济大学</span> 
     <span style="float: right;">2021年09月 - 2024年03月</span><br>
     <span style="float: left">应用经济学  硕士  区域经济学</span> 
     <span style="float: right;">上海</span><br>
 </div>
+
 <div id="expand-box-header">
     <span style="float: left; font-weight: bold">中国科学技术大学</span> 
     <span style="float: right;">2015年09月 - 2019年06月</span><br>
@@ -23,16 +25,23 @@ redirect_from:
     <span style="float: right;">安徽，合肥</span><br>
 </div>
 
+
 工作经历
 ======
+
+
 <div id="expand-box-header">
     <span style="float: left; font-weight: bold">深圳字节跳动科技有限公司</span> 
     <span style="float: right;">2019年07月 - 2020年04月</span><br>
     <span style="float: left">产品与工程架构部  研发工程师</span> 
     <span style="float: right;">广东，深圳</span><br>
 </div>
+
+
 - 主要职责：负责字节跳动海量大规模分布式对象存储系统TOS的研发工作，为包括Tiktok、抖音、今日头条等全球产品线提供统一的非结构化数据存储和数据治理服务
 - 重点工作：参与字节跳动第二代云存储系统TOS2.0、字节跳动第一代边缘计算与边缘存储系统的研发工作，为抖音春晚活动提供大流量挑战下的解决方案；参与字节跳动云存储的私有产品化过程（现火山引擎）；主导了基于深度学习的主动热点对象预测的高速 SSD 缓存系统的研发工作
+
+
 <div id="expand-box-header">
     <span style="float: left; font-weight: bold">广西南宁市发展与改革委员会</span> 
     <span style="float: right;">2022年07月 - 2022年08月</span><br>
