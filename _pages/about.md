@@ -28,7 +28,6 @@ redirect_from:
 工作经历
 ======
 ------
-
 * <div id="expand-box-header">
     <span style="float: left; font-weight: bold">深圳字节跳动科技有限公司</span> 
     <span style="float: right;">2019年07月 - 2020年04月</span><br>
